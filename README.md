@@ -14,7 +14,7 @@ The lists were generated using a **simple Python script**, the code for which ca
 
 ## What about longer combinations ⁉️
 
-Sadly, due to GitHub's file size limitations I'm not able to provide any bigger lists. However you can **easily** create lists of **five, six, seven, eight, nine,** etcetera letter combinations on your own, following the steps below!
+Sadly, due to GitHub's file size limitations I'm not able to provide any bigger lists. However you can **easily** create lists of **five, six, seven, eight, nine,** et cetera letter combinations on your own, following the steps below!
 
 <br>
 
