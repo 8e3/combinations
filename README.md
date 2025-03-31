@@ -28,7 +28,7 @@ Sadly, due to GitHub's file size limitations I'm not able to provide any bigger 
 - Enough disk space ;)
 
 #### Steps to replicate:
-1. **Download** the **Source Code** by heading [**here**](https://github.com/8e3/combinations/blob/main/generator.py) and pressing Control + Shift + S
+1. **Download** the **Source Code** by heading [**here**](https://github.com/8e3/combinations/blob/main/generator.py) and pressing **Control + Shift + S**
 2. **Open** the downloaded **Source Code** in your preferred **Code-Editor** <br> <sub>(For **PyCharm**, press **Control + O** in-app)</sub>
 3. **Edit** the number at the end of **line 7**, which is set to 5 by default, to the length of your liking
 4. Run the script:
