@@ -1,7 +1,7 @@
 # Combination of Letters
 
 This repository contains **simple lists of latin letters**, varying in length.📝  
-The lists were generated using a **simple Python script**, the code for which can be found [**here**](https://github.com/8e3/combinations/blob/main/generator.py)!
+The lists were generated using a **simple Python script**, the code of which can be found [**here**](https://github.com/8e3/combinations/blob/main/generator.py)!
 
 ## Pregenerated lists in this repository:
 - 1️⃣ Generic [**list**](https://github.com/8e3/combinations/blob/main/lists/1.txt) of every latin letter (26 lines, ~78 Bytes)
