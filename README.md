@@ -1,6 +1,6 @@
 # Combination of Letters
 
-This repository contains **simple lists of latin leters**, varying in length.📝  
+This repository contains **simple lists of latin letters**, varying in length.📝  
 The lists were generated using a **simple Python script**, the code for which can be found [**here**](https://github.com/8e3/combinations/blob/main/generator.py)!
 
 ## Pregenerated lists in this repository:
